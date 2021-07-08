@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-restingles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Oscar Eduardo Sánchez Carrera",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
